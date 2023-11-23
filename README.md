@@ -1,7 +1,3 @@
-Certainly! Here's a template for your project's README file:
-
----
-
 # Car Purchase Prediction Using ML
 
 ## Team ID: Team-592817
