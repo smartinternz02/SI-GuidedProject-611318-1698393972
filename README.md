@@ -10,7 +10,7 @@
 This project focuses on predicting car purchases using Machine Learning (ML) techniques. Leveraging demographic data such as age, gender, and income, the model aims to forecast the likelihood of a customer purchasing a car. The predictive insights gained from this model assist car dealerships in targeting potential buyers more effectively, optimizing their marketing strategies.
 
 ## Deployed Website:
-[Car Sales Prediction Website](https://carsalespredict.azurewebsites.net/)
+[Car Sales Prediction Website](https://carsalespredict.onrender.com/)
 
 ### Features Implemented:
 - **Data Preprocessing:** Comprehensive data cleaning, handling missing values, and encoding categorical variables.
