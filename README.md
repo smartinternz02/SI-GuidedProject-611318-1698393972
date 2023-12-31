@@ -42,3 +42,9 @@ This project focuses on predicting car purchases using Machine Learning (ML) tec
 
 ## Conclusion:
 The Car Purchase Prediction project offers a robust model for predicting car purchases based on customer demographics. The deployed web application serves as a user-friendly interface to estimate a customer's likelihood of buying a car, providing invaluable insights for the automotive industry.
+
+## Images:
+![image](https://github.com/smartinternz02/SI-GuidedProject-611318-1698393972/assets/90129538/af8f685b-fea0-4b6f-a52f-6d0b4a9cb353)
+![image](https://github.com/smartinternz02/SI-GuidedProject-611318-1698393972/assets/90129538/61ad7b54-0ba0-446d-82db-6db370b9295b)
+
+
